@@ -1,44 +1,46 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# My Personal Portifolio
 
-## Available Scripts
+<div align="center">
+    <img src="https://dpwd7a.dm.files.1drv.com/y4mxcxHGWMLiqQbyFExfy8eFkxlML8H5ho4yVRS1ZEteOx_MVd6kYf81Hi0drtLIGWz_mJvWGqwqnUpM_zhozxiNylOTyCIgDrsLZFIi6y1Uw9iemErhVYutmJ98V9tlKlFn0zjxRjrbTuXB5Cq662W9emh90FfGZBhF1dsPUB5Dqt5mQe1qS0JSMzLaFUIl7JpfDrUJ4ZTlnQ-MRgwO1lvtQ?width=110&height=109&cropmode=none" width="110" height="109" />
+</div>
 
-In the project directory, you can run:
+This is my personal portifolio. I get a template from <https://www.behance.net/gallery/96859749/CV-Resume-One-Page-Template-Free-XD-PS>. Here I just make a little thing to show my projects and with time I will implement, but I just made for fun.
 
-### `yarn start`
+---
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+  <a href="LICENSE" >
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
+  </a>
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+---
 
-### `yarn test`
+<h3 align="center">  
+  <a href="#informationsource-about">About</a> |
+  <a href="#interrobang-reason">Reason</a> | 
+  <a href="#rocket-technologies-used">Technologies</a> | 
+  <a href="#license">License</a> 
+</h3>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :information_source: About
 
-### `yarn build`
+This project is to show a little of my career of programmer. Show a little of me and I use like a persnoal portifolio.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :interrobang: Reason
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+This is only a personal project. I like of the template so I decided to make like a personal project of a portifolio, then I begin to make.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :rocket: Technologies used
 
-### `yarn eject`
+O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- HTML5/CSS3
+- Javascript (ES6)
+- React.js
+- React router dom (It's not used for while, but is configured)
+- Styled components
+- React icons (Font Awesome's icons)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## License
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
