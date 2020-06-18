@@ -10,7 +10,7 @@ export default createGlobalStyle`
     }
     body{
         font-family: 'Poppins', sans-serif;
-        font-size: 16px;
+        font-size: 14px;
         text-rendering: optimizeLegibility;
         -webkit-font-smoothing: antialiased;
         color: #95A5C6;
