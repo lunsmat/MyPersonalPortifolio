@@ -10,6 +10,7 @@ export const Container = styled.header<Props>`
     background: #1F2935;
     display:flex;
     justify-content: center;
+    z-index:3;
 
     div {
         width: 100%;

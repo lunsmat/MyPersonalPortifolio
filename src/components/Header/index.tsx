@@ -9,7 +9,7 @@ const Header: React.FC = () => {
     return (
         <Container menuOpen={menuOpen}>
             <div>
-                <h1>LF.</h1>
+                <h1 title="Luan Farias">LF.</h1>
                 <FiMenu
                     id="menuOpener"
                     color={menuOpen ? '#0ABEAD' : '#1F2935'}
