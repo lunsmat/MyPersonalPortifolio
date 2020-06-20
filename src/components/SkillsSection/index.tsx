@@ -11,7 +11,7 @@ const ResumeSection: React.FC = () => {
 
     return (
         <ContainerSection>
-            <Container listStyle={ListStyle}>
+            <Container listStyle={ListStyle} id="skills">
                 <SectionHeader>
                     <h3>Programing Skills</h3>
                     <p>My Skills In Programming</p>

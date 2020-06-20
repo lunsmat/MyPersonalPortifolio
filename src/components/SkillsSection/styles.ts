@@ -4,10 +4,10 @@ import { Section } from "../SectionComponents";
 export const ContainerSection = styled.div`
     background: #1F2935;
     rotate: -7deg;
-    width: 130vw;
+    width: 200vw;
     margin: 75px 0;
-    margin-left: -15vw;
-    padding: 50px 15vw;
+    margin-left: -50vw;
+    padding: 50px 50vw;
     display: flex;
     align-items: center;
 

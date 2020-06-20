@@ -5,6 +5,7 @@ import IntroductionSection from '../../components/IntroductionSection';
 import AboutSection from '../../components/AboutSection';
 import ServicesSection from '../../components/ServicesSection';
 import SkillsSection from '../../components/SkillsSection';
+import PortifolioSection from '../../components/PortifolioSection';
 
 const HomePage: React.FC = () => {
   return (
@@ -13,6 +14,7 @@ const HomePage: React.FC = () => {
           <AboutSection />
           <ServicesSection />
           <SkillsSection />
+          <PortifolioSection />
       </Container>
   );
 }

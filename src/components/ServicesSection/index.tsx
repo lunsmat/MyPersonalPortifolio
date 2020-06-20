@@ -8,7 +8,7 @@ import ServiceComponent from '../ServiceComponent';
 const ServicesSection: React.FC = () => {
     const services = getServices();
   return (
-    <Container>
+    <Container id="services">
         <SectionHeader>
             <h3>Services</h3>
             <p>What We Provide To You ?</p>

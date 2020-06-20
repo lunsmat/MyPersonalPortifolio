@@ -7,7 +7,7 @@ import ListStyle from '../../styles/assets/images/ListStyleOrange.png';
 
 const AboutUsSection: React.FC = () => {
   return (
-      <Container listStyle={ListStyle}>
+      <Container id="about" listStyle={ListStyle}>
           <SectionHeader>
               <h3>About</h3>
               <p>What We Provide To You?</p>

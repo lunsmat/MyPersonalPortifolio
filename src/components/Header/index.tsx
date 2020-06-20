@@ -18,8 +18,8 @@ const Header: React.FC = () => {
                 <nav>
                     <a className="active" onClick={() => setMenuOpen(false)} href="#home">Home</a>
                     <a href="#about" onClick={() => setMenuOpen(false)}>About</a>
-                    <a href="#resume" onClick={() => setMenuOpen(false)}>Resume</a>
                     <a href="#services" onClick={() => setMenuOpen(false)}>Services</a>
+                    <a href="#skills" onClick={() => setMenuOpen(false)}>Skills</a>
                     <a href="#portifolio" onClick={() => setMenuOpen(false)}>Portifolio</a>
                     <a href="#pricing" onClick={() => setMenuOpen(false)}>Pricing</a>
                     <a href="#contact" onClick={() => setMenuOpen(false)}>Contact</a>
