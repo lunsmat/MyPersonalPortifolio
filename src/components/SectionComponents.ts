@@ -12,6 +12,7 @@ export const SectionHeader = styled.div`
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-bottom: 30px;
 
     h3 {
         display: inline;
