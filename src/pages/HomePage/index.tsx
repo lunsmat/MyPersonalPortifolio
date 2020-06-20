@@ -7,6 +7,7 @@ import ServicesSection from '../../components/ServicesSection';
 import SkillsSection from '../../components/SkillsSection';
 import PortifolioSection from '../../components/PortifolioSection';
 import PricingSection from '../../components/PricingSection';
+import ContactSection from '../../components/ContactSection';
 
 const HomePage: React.FC = () => {
   return (
@@ -17,6 +18,7 @@ const HomePage: React.FC = () => {
           <SkillsSection />
           <PortifolioSection />
           <PricingSection />
+          <ContactSection />
       </Container>
   );
 }

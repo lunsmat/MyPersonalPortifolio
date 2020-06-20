@@ -6,8 +6,8 @@ import ListStyle from '../../styles/assets/images/ListStyleChecked.png'
 
 const PricingSection: React.FC = () => {
     return (
-        <ContainerSection id="pricing">
-            <Container listStyle={ListStyle}>
+        <ContainerSection>
+            <Container id="pricing" listStyle={ListStyle}>
                 <SectionHeader>
                     <h3>Pricing</h3>
                     <p>Check My Services Package</p>
