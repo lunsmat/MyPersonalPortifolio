@@ -15,6 +15,7 @@ export default createGlobalStyle`
         -webkit-font-smoothing: antialiased;
         color: #95A5C6;
         background-color: #161D26;
+        overflow-x: hidden;
     }
     html, body, #root{
         height: 100%;

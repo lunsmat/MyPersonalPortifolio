@@ -3,7 +3,7 @@ import React from 'react';
 import { Container } from './styles';
 import { SectionHeader } from '../SectionComponents';
 import Photo from '../../styles/assets/images/Photo.png';
-import ListStyle from '../../styles/assets/images/ListStyle.png';
+import ListStyle from '../../styles/assets/images/ListStyleOrange.png';
 
 const AboutUsSection: React.FC = () => {
   return (
